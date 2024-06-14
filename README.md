@@ -6,3 +6,5 @@ Steps:
 3) Then open the bin folder
 4) Run ./idea.sh in the terminal
 5) Open the rquired file
+6) Run the application on Intellij IDEA
+7) Run the localhost on your browser (port: 8080).
